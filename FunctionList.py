@@ -4,7 +4,7 @@ import numpy as np
 import numbers
 import operator
 import os
-
+# 111
 # Assignment 1:
 def myList2Text(myList):
 
